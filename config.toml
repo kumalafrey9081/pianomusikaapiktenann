@@ -1,0 +1,4 @@
+baseURL = "https://songshaja-lalamusica.vercel.app"
+languageCode = "en-us"
+title = "Piano Music Songs"
+theme = "hugo-theme-minos"
